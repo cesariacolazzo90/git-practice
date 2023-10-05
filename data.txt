@@ -2,24 +2,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                               
 Name: Ironhacker
-Age: 25
-Favorite Color: Yellow
+Age: 27
+Favorite Color: green
+git pull origintrue master 
