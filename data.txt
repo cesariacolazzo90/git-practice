@@ -1,0 +1,25 @@
+  GNU nano 7.2                        data.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               
+Name: Ironhacker
+Age: 25
+Favorite Color: Yellow
